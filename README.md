@@ -46,7 +46,7 @@ I build intelligent systems that turn data into actionable insights. My work sit
 
 ## 📈 GitHub Stats
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=nigavictor&show_icons=true&theme=default)
+[![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nigavictor&show_icons=true&theme=default)](https://github.com/nigavictor)
 
 ---
 
